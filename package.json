@@ -31,7 +31,7 @@
     "jshint": "^2.10.1"
   },
   "peerDependencies": {
-    "leaflet": "^1.0.0",
-    "mapbox-gl": "*"
+    "leaflet": "1.6.0",
+    "mapbox-gl": "1.7.0"
   }
 }

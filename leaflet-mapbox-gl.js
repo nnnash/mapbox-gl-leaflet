@@ -268,5 +268,6 @@
         return new L.MapboxGL(options);
     };
 
+    return L
 }));
 
